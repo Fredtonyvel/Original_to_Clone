@@ -220,9 +220,7 @@ int main(int argc, char *argv[])
 	favSpot.fav_spot();
 	cout << "\n"; 
 	
-    	 
-    system("PAUSE");
-    return EXIT_SUCCESS;
+    return 0;
 }
 
 /*Write a class for prisoners. Prisoners should have 
